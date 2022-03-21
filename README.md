@@ -23,14 +23,14 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Green | Yellow | 
+|Yellow | Red    | 
+| Red   | Green  | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>It takes the input of currentColor and provides an output of nextColor depending on what is entered. If a color is input that is not part of the code, an error will be returned after it exhausts all the other 'else if' options.  </td>
   </tr>
 </table>
 
